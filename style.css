@@ -1,8 +1,25 @@
+.ibm-plex sans devanagari-regular {
+  font-family: "IBM Plex Sans Devanagari", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.jumbotron{
+  background-image: url('carl.jpg');
+}
 body {
   background-color: lightblue;
+  font-family: "IBM Plex Sans Davanagari", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #FFFFFF;
 }
 
 h1 {
-  color: navy;
-  margin-left: 20px;
+  text-align: center;
+}
+
+h5 {
+  text-align: center;
+  font-style: italic;
 }
