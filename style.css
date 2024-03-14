@@ -5,9 +5,9 @@
 }
 
 .jumbotron{
-  background-image: url('carl.jpg');
   text-shadow: 2px 2px black;
 }
+
 body {
   background-color: lightblue;
   font-family: "IBM Plex Sans Davanagari", sans-serif;
@@ -31,4 +31,16 @@ hr {
 
 .disabled {
   pointer-events: none;
+}
+
+#Home {
+  background-image: url('carl.jpg');
+}
+
+#History {
+  background-image: url('uke.jpg')
+}
+
+#Visit {
+  background-image: url('vis.jpg')
 }
