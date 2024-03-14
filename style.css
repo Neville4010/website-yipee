@@ -28,3 +28,7 @@ h5 {
 hr {
   border-bottom: 1px solid beige;
 }
+
+.disabled {
+  pointer-events: none;
+}
