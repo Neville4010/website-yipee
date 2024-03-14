@@ -62,3 +62,7 @@ hr {
 #Visit {
   background-image: url('vis.jpg')
 }
+
+#historyCarousel {
+  float: right;
+}
