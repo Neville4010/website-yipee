@@ -26,7 +26,14 @@ body {
   color: #F9F5E3;
 }
 
-#Title {
+p {
+  color: #524948;
+}
+
+img{
+  width: 600px;
+  height: 300;
+  float: right;
 }
 
 h5 {
