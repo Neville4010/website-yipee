@@ -27,7 +27,7 @@ body {
 }
 
 p {
-  color: #524948;
+  color: #F9F5E3;
 }
 
 img{
@@ -49,6 +49,10 @@ hr {
 }
 .disabled {
   pointer-events: none;
+}
+
+.homepage-content {
+   background-color: #708B75;
 }
 
 #Home {
