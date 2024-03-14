@@ -6,8 +6,18 @@
 
 .jumbotron{
   text-shadow: 2px 2px black;
+  text-align:center;
+  padding-top: 100px;
+  padding-bottom: 5px;
+  bottom: 0;
+  position: relative;
 }
 
+.container{
+  text-align:center;
+  bottom: 10;
+  position: relative;
+}
 body {
   background-color: lightblue;
   font-family: "IBM Plex Sans Davanagari", sans-serif;
@@ -16,12 +26,10 @@ body {
   color: #FFFFFF;
 }
 
-h1 {
-  text-align: center;
+#Title {
 }
 
 h5 {
-  text-align: center;
   font-style: italic;
 }
 
