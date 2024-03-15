@@ -47,6 +47,11 @@ hr {
 .btn-group {
   text-align: center;
 }
+
+.custom-btn {
+  color: #F9F5E3;
+  background-color: #708B75;
+}
 .disabled {
   pointer-events: none;
 }
