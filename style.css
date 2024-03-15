@@ -26,13 +26,12 @@ body {
   color: #F9F5E3;
 }
 
-p {
-  color: #F9F5E3;
+#polaroidfont {
+  color: black;
 }
-
 img{
-  width: 600px;
-  height: 300;
+  width: 500px;
+  height: 650px;
   float: right;
 }
 
@@ -48,6 +47,18 @@ hr {
   text-align: center;
 }
 
+.polaroid{
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+
+.polaroidContainer {
+  text-align: center;
+  padding: 10px 20px;
+}
+
 .custom-btn {
   color: #F9F5E3;
   background-color: #708B75;
@@ -58,6 +69,7 @@ hr {
 
 .homepage-content {
    background-color: #708B75;
+   color: #F9F5E3;
 }
 
 #Home {
