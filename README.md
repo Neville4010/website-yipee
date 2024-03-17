@@ -1,5 +1,5 @@
-Name: Niamh Murphy
-Student ID: 52316595
+- Name: Niamh Murphy
+- Student ID: 52316595
 
 # What is this project?
 
