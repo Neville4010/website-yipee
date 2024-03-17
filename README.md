@@ -1,6 +1,7 @@
 Name: Niamh Murphy  Student ID: 52316595
 
 **What is this project?**
+
 The assessment asked for a website with three pages to be created all about your hometown with the use of HTML, CSS, and Bootstrap to allow for the website to truly show
 what your hometown has to offer. Using the design specifications and content requirements given, alongside demonstrating proper understanding of how to work with github
 repositories and regularly committing where appropriate.
@@ -20,9 +21,6 @@ repositories and regularly committing where appropriate.
   The images behind the text were tailored to the content of each web page topic so that there was sense to the reasoning of the images chosen.
 
 **Challenges Faced**
-Interaction with nested divs proved to be difficult at the beginning and somewhat messy. To try and work around this, spacing was used alongside any unnecessary divs were removed
-by grouping content within the same div.
-Having multiple duplicate CCS style choices. A lot of style choices made were similar across quite a few of the attributes seen within the website. To minimise any duplications,
-using IDs and Classes to group similar attribute styles proved to aid in this problem.
-Codio preventing external links being accessed in static preview. When using external links, codio proved to not execute the prompt to take the user to the website. Within a
-browser however, this was not presented as an issue.
+- Interaction with nested divs proved to be difficult at the beginning and somewhat messy. To try and work around this, spacing was used alongside any unnecessary divs were removed by grouping content within the same div.
+- Having multiple duplicate CCS style choices. A lot of style choices made were similar across quite a few of the attributes seen within the website. To minimise any duplications, using IDs and Classes to group similar attribute styles proved to aid in this problem.
+- Codio preventing external links being accessed in static preview. When using external links, codio proved to not execute the prompt to take the user to the website. Within a browser however, this was not presented as an issue.
