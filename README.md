@@ -21,7 +21,7 @@ repositories and regularly committing where appropriate.
 -  For the visit page the use of hover CSS techniques were used to give a more user interactive feel to the page. When the user hovers over the images, a piece of text will slide
   over the image giving the user more information as to the significance of the image. Alongside this, there is a button with a link to an external webpage with further information
   should they choose.
-  <img width="599" alt="image" src="https://github.com/Neville4010/website-yipee/assets/122937544/afca3f09-92ab-4e39-870b-ff0b41cf53e6">
+< img width="599" alt="image" src="https://github.com/Neville4010/website-yipee/assets/122937544/afca3f09-92ab-4e39-870b-ff0b41cf53e6">
 
 - For the banner, a simple, type-writing adjacent font was selected. This was to promote a 'clean' feeling to the page and not draw attention away from the information. The writing
   was centred within the bottom half of the banner with a line filling the space between the town name and other essential info. This was a stylistic choice to give more character.
