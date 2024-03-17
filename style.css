@@ -119,24 +119,24 @@ hr {
   background-color: #708B75;
 }
 
-.homepage-content {
+.webpage-content {
    background-color: #708B75;
    color: #F9F5E3;
    text-align: center;
 }
 
 #Home {
-  background-image: url('carl.jpg');
+  background-image: url('images/homepagebanner.jpg');
   background-size: cover;
 }
 
 #History {
-  background-image: url('uke.jpg');
+  background-image: url('images/historypagebanner.jpg');
   background-size: cover;
 }
 
 #Visit {
-  background-image: url('vis.jpg');
+  background-image: url('images/visitpagebanner.jpg');
   background-size: cover;
 }
 
