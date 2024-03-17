@@ -88,9 +88,11 @@ body {
   color: #F9F5E3;
 }
 
-#polaroidfont {
-  color: black;
+.historyContent {
+  background-color: #8C5E58;
+  color:
 }
+
 img{
   width: 500px;
   height: 650px;
@@ -109,24 +111,9 @@ hr {
   text-align: center;
 }
 
-.polaroid{
-  width: 80%;
-  background-color: white;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  margin-bottom: 80%;
-}
-
-.polaroidContainer {
-  text-align: center;
-  padding: 10px 20px;
-}
-
 .custom-btn {
   color: #F9F5E3;
   background-color: #708B75;
-}
-.disabled {
-  pointer-events: none;
 }
 
 .homepage-content {
@@ -136,14 +123,17 @@ hr {
 
 #Home {
   background-image: url('carl.jpg');
+  background-size: cover;
 }
 
 #History {
-  background-image: url('uke.jpg')
+  background-image: url('uke.jpg');
+  background-size: cover;
 }
 
 #Visit {
-  background-image: url('vis.jpg')
+  background-image: url('vis.jpg');
+  background-size: cover;
 }
 
 #historyCarousel {
